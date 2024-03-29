@@ -1,0 +1,181 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   background-image:url(images/fatloss/w1.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+      text-align: center;
+}
+
+header {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color:white;
+}
+/*  paragraph    */
+ ul{
+ color:white;
+ font: size 25px;px;
+ display:inline;
+ }
+nav ul li {
+    display:inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:black;
+    padding: 5px 10px;
+    border: 1px solid #333;
+    border-radius: 6px;
+}
+
+nav ul li a:hover {
+    background-color:white ;
+    color:red;
+
+}
+ /*  HEADER  */
+section {
+    padding: 50px;
+    color:black;
+    font-size:20px;
+
+}
+
+footer {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+*{margin : 0;
+    padding : 0 ;
+    font-family : cursive ;
+    box-sizing : border-box ;}
+
+.flex-container{
+   width: 100% ;
+   height : auto ;
+   display:flex ;
+   flex-direction:column ;
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   align-items: center;
+}
+
+.flex-box{
+    background-image:url(images/fatloss/w.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 200px ;
+    margin : 10px;
+}
+
+
+.flex-box1{
+    background-image: url(images/fatloss/day1.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box2{
+    background-image: url(images/fatloss/day2.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box3{
+    background-image: url(images/fatloss/day3.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box4{
+    background-image: url(images/fatloss/day4.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box5{
+    background-image: url(images/fatloss/day5.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box6{
+    background-image: url(images/fatloss/day6.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box7{
+    background-image: url(images/fatloss/day7.jpg);
+    width: 700px;
+    height: 400px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}
+
+.flex-box8{
+    background:black;
+    width: 700px;
+    height: 770px;
+    color : red ;
+    font-size : 25px ;
+    text-align: center ;
+    border-radius : 20px ;
+    margin : 10px;
+}

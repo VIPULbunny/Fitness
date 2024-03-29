@@ -1,0 +1,23 @@
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index:-100;
+  }
+
+  .vip{
+    font-size: 70px;
+    color: aliceblue;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-family: 'Protest Revolution', sans-serif;
+  }
+
+  .About_uss{
+    color: aliceblue;
+    padding-top: 140px;
+    font-family: 'Single Day', cursive;
+    font-size: 20px;
+  }

@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url("back.jpg");
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+header {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(2,0,36,1) 58%, rgba(0,212,255,1) 100%);
+}
+
+.nutrient_plan{
+    transform: scale(0.8);
+    display: grid;
+    place-items: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color:white;
+    text-decoration: none;
+}
+
+section {
+    padding: 30px;
+}
+
+footer {
+    background-color: black;
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(2,0,36,1) 58%, rgba(0,212,255,1) 100%);
+    text-align: center;
+    padding: 20px;
+}
+ p{
+ color:white;
+ text-align: center;
+     padding: 20px;
+
+ }
+h2{
+color:white;
+text-align: center;
+    padding: 20px;
+}
+a{
+text-align: center;
+    padding: 20px;
+}
